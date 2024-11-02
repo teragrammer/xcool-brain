@@ -30,6 +30,18 @@ AI knowledge architecture for Adaptive Science Curriculum
 
 - User state model
 
+### Contributing
+
+Contributions are welcome! Please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch (git checkout -b feature/your-feature).
+3. Commit your changes (git commit -m 'Add your feature').
+4. Push to the branch (git push origin feature/your-feature).
+5. Open a Pull Request.
+
+Please ensure your code follows the project's coding standards and includes relevant tests.
+
 ### Hire Me
 
 ```
