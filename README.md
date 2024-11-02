@@ -29,3 +29,14 @@ AI knowledge architecture for Adaptive Science Curriculum
 - Adaptive difficulty engine
 
 - User state model
+
+### Hire Me
+
+```
+If you like this project and need help with development, customization, or integration, feel free to reach out!
+
+I’m available for freelance work, consulting, and collaboration.
+
+Thank you for checking out XCool Brain AI Knowledge!
+Feel free to contribute or open issues.
+```
