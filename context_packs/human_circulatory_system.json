@@ -1,0 +1,22 @@
+{
+  "topic": "Human Circulatory System",
+  "core_concepts": [
+    "Heart anatomy",
+    "Blood vessels (arteries, veins, capillaries)",
+    "Blood composition",
+    "Systemic and pulmonary circulation"
+  ],
+  "common_misconceptions": [
+    "Veins carry only deoxygenated blood",
+    "The heart pumps only oxygenated blood"
+  ],
+  "prerequisites": [
+    "Basic human anatomy",
+    "Gas exchange in lungs"
+  ],
+  "difficulty_levels": {
+    "beginner": "Simple analogy of the heart as a pump.",
+    "intermediate": "Explanation of double circulation and vessel roles.",
+    "advanced": "Hemodynamics and regulation of blood pressure."
+  }
+}

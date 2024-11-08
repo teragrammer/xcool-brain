@@ -1,0 +1,22 @@
+{
+  "topic": "Photosynthesis",
+  "core_concepts": [
+    "Chloroplast structure",
+    "Light-dependent reactions",
+    "Calvin cycle",
+    "ATP and NADPH role"
+  ],
+  "common_misconceptions": [
+    "Plants get food from soil",
+    "Photosynthesis only happens during the day"
+  ],
+  "prerequisites": [
+    "Cell structure",
+    "Energy transfer in cells"
+  ],
+  "difficulty_levels": {
+    "beginner": "Simple explanation using analogies.",
+    "intermediate": "Moderate biological terminology",
+    "advanced": "Detailed biochemical processes"
+  }
+}

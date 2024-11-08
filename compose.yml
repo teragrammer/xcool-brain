@@ -1,0 +1,15 @@
+services:
+  xcool:
+    build: .
+    container_name: xcool
+    volumes:
+      - .:/app
+    tty: true
+    stdin_open: true
+    networks:
+      - xcool-network
+
+networks:
+  xcool-network:
+    name: xcool-network
+    driver: bridge

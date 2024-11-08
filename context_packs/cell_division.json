@@ -1,0 +1,22 @@
+{
+  "topic": "Cell Division",
+  "core_concepts": [
+    "Mitosis stages",
+    "Meiosis and genetic variation",
+    "Role of spindle fibers",
+    "Cell cycle regulation"
+  ],
+  "common_misconceptions": [
+    "Mitosis and meiosis are the same",
+    "Cells divide randomly without regulation"
+  ],
+  "prerequisites": [
+    "Basic cell structure",
+    "DNA and chromosomes"
+  ],
+  "difficulty_levels": {
+    "beginner": "Overview of cell division with simple diagrams.",
+    "intermediate": "Detailed explanation of mitosis vs meiosis.",
+    "advanced": "Molecular regulation and checkpoints in the cell cycle."
+  }
+}

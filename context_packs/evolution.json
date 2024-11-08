@@ -1,0 +1,22 @@
+{
+  "topic": "Evolution",
+  "core_concepts": [
+    "Natural selection",
+    "Adaptation",
+    "Speciation",
+    "Fossil evidence"
+  ],
+  "common_misconceptions": [
+    "Humans evolved directly from monkeys",
+    "Evolution happens within an individual's lifetime"
+  ],
+  "prerequisites": [
+    "Genetics and variation",
+    "Ecological interactions"
+  ],
+  "difficulty_levels": {
+    "beginner": "Simple explanation of survival of the fittest.",
+    "intermediate": "Examples of adaptation and speciation.",
+    "advanced": "Population genetics and evolutionary mechanisms."
+  }
+}

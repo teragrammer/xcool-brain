@@ -1,0 +1,22 @@
+{
+  "topic": "Genetics and Inheritance",
+  "core_concepts": [
+    "Mendelian inheritance",
+    "Dominant and recessive traits",
+    "Punnett squares",
+    "Genetic variation and mutations"
+  ],
+  "common_misconceptions": [
+    "Dominant traits are always more common",
+    "Children inherit traits only from one parent"
+  ],
+  "prerequisites": [
+    "DNA structure",
+    "Cell division (meiosis)"
+  ],
+  "difficulty_levels": {
+    "beginner": "Basic trait inheritance with simple examples.",
+    "intermediate": "Use of Punnett squares and terminology.",
+    "advanced": "Molecular genetics and non-Mendelian inheritance."
+  }
+}
