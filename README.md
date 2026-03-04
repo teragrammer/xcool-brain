@@ -46,7 +46,7 @@ curl -fsSL https://ollama.com/install.sh | sh
 
 Pull llama3
 ```BASH
-ollama pull llama3
+ollama pull llama3.2
 ```
 
 Update system config
