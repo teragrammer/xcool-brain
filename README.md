@@ -39,6 +39,11 @@ AI knowledge architecture for Adaptive Science Curriculum. (Proof‑of‑concept
 
 ## Installation
 
+Install Ollama
+```BASH
+curl -fsSL https://ollama.com/install.sh | sh
+```
+
 Pull llama3
 ```BASH
 ollama pull llama3
