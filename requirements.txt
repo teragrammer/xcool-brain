@@ -5,3 +5,5 @@ sentencepiece
 langchain
 ollama
 python-dotenv
+python-dotenv
+requests
